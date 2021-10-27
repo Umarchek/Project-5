@@ -1,0 +1,176 @@
+div.entry_content {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 900px;
+    text-align: left;
+}
+
+div.entry_content h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+div.post-entry center {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+div.post-entry p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+div.shop_promo {
+     font-family: Arial, Helvetica, sans-serif;
+   text-align: left;
+}
+
+div.shop_product {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 60px;
+    text-align: left;
+    font-size: 18px;
+}
+
+div.shop_product h1 {
+     font-family: Arial, Helvetica, sans-serif;
+   font-size: 25px;
+}
+
+div.shop_product h2 span {
+     font-family: Arial, Helvetica, sans-serif;
+   font-size: 25px;
+}
+
+div.entry_content h2 {
+    font-size: 25px;
+    text-align: center;
+}
+
+div.shop_promo h3 {
+    text-align: center;
+}
+
+
+div.shop_promo h3 {
+    text-align: center;
+}
+
+div.shop_product h2 {
+    text-align: center;
+}
+
+div.shop_promo h4 {
+    text-align: center;
+}
+
+div.shop_product h1 {
+    text-align: center;
+}
+
+#pum-1019{
+  background-color: rgba(0,0,0,0.5);
+}
+
+#popmake-1019{
+  padding: 0px !important;
+}
+
+#popmake-1019 .contentpopright{
+  float: right;
+  width: 398px;
+}
+
+#popmake-1019 p{
+  margin: 0px;
+  padding: 0px;
+  color: #000;
+}
+
+#popmake-1019 .popleftimage{
+  width: 300px;
+  height: auto;
+  float: left;
+  display: block;
+  margin: 0px
+}
+
+#popmake-1019 .dlash_popup_header{
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 32px;
+  margin: 20px auto 10px auto;
+}
+
+#popmake-1019 .dlash_mini_content{
+  text-align: center;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+#popmake-1019 .dlash_pop_content{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 20px 30px;
+  font-size: 16px;
+}
+
+#popmake-1019 .dlash_pop_content span{
+  color: #1998aa;
+  font-size: 24px;
+}
+
+#popmake-1019 .poplogoimage{
+  width: 80%;
+}
+
+#popmake-1019 form{
+      margin: 0 !important;
+}
+
+#mc4wp-form-2 {
+	text-align: center;
+}
+
+#mc4wp-form-2 label{
+	display: none !important;
+}
+
+#popmake-1019 #mc4wp-form-2 input[type="email"]{
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #efefef;
+    border: none;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #000 !important;
+}
+
+#popmake-1019 #mc4wp-form-2 input[type="submit"]{
+	width: 80%;
+    background: #000;
+    border: none;
+    text-shadow: none;
+    color: #fff;
+}
+
+.dual_deal_wrapper{
+  width: 100%;
+}
+
+.dual_deal_wrapper > a{
+  display: inline-block;
+  width: 50%;
+}
+
+.dual_deal_wrapper > a > img{
+  width: 100%;
+}
+
+.ingram-footer{
+  max-width: 100% !important;
+}
