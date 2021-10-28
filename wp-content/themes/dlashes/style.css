@@ -611,8 +611,10 @@ h2.product-title a{
 /* =Responsive (Mobile) Design
 -------------------------------------------------------------- */
 
-@media screen and (min-width: 651px) {
-	
+@media screen and (min-width: 651px){
+	.js .main-nav .menu{
+		display: flex;
+	}
 }
 
 @media screen and (max-width: 980px) {
