@@ -638,17 +638,6 @@ h2.product-title a {
 /* =Responsive (Mobile) Design
 -------------------------------------------------------------- */
 
-.js .main-nav .menu {
-	display: flex !important;
-	justify-content: center!important;
-}
-
-@media screen and (min-width: 651px) {
-	.js .main-nav .menu {
-		display: flex !important;
-	}
-}
-
 @media screen and (max-width: 980px) {
 	.grid, .grid-right {
 		float: left;
